@@ -1,0 +1,1 @@
+[{"CompanyCode":"1098","Cur":"INR","DPO":"28","POAmount":"46229144.76| 2805551","POs":"20| 9","PWT":"98%","TicketNumber":"TKT-3739096-N3N2R8","Tickets":"2| 34","VendorName":"Ingram Micro India Private Limited","VendorNumber":"0002093248"}]
